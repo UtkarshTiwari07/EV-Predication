@@ -50,6 +50,12 @@ The project follows these theoretical steps:
 
 To run the code and perform the analysis:
  
-##Conclusion
+## Conclusion
 
 This project offers a framework for estimating the growth of electric scooters and the necessary charging infrastructure in India. By following the outlined methodology, stakeholders can make informed decisions to support the expansion of electric mobility.
+
+## Contact
+For more information or inquiries:
+
+Utkarsh Tiwari
+Email: utkarshtiwar89@gmail.com
